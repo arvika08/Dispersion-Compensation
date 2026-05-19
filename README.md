@@ -1,11 +1,12 @@
 # Dispersion-Compensation
-# Dispersion Compensation
 
 ## Objective
 Design and simulate a fiber optic system using dispersion-compensating fiber to reduce chromatic dispersion.
 
 ## Theory
-<img width="1398" height="500" alt="image" src="https://github.com/user-attachments/assets/a922bb4a-e871-4643-96a5-b78350cfb8d1" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a922bb4a-e871-4643-96a5-b78350cfb8d1" width="750">
+</p>
 
 
 Therefore, given target values for chromatic dispersion and attenuation loss plus specifications of the transmitter, fiber, and receiver, one can determine the lengths of the transmission fiber and the DCF by solving the above two equations simultaneously.
@@ -71,17 +72,20 @@ The main physical components of this layout are:
 ## Further Simulation and Analysis
 - Set the DCF length to 0 and run the simulation again.  
 - Record similar measurements for comparison.
-- <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7045b5de-20cc-48db-9d2b-e480472d2463" />
-
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/64cec0da-d728-4321-9700-f70df477182d" />
-
-
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/7045b5de-20cc-48db-9d2b-e480472d2463" width="800">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/64cec0da-d728-4321-9700-f70df477182d" width="800">
+</p>
 
 
 ---
 
 ## Table and Calculations
-<img width="1302" height="1600" alt="image" src="https://github.com/user-attachments/assets/bb27d672-02bd-411a-aff6-9671253a32bc" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bb27d672-02bd-411a-aff6-9671253a32bc" width="450">
+</p>
 
 
 
